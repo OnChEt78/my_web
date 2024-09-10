@@ -1,0 +1,61 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+}
+.Header1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.Logo {
+    width: 500px;
+    height: 500px;
+}
+.img {
+    /*margin-left: 83%;*/
+    border-radius: 20px;
+    display: inline;
+}
+.tele {
+   margin-left: 50px;
+    border-radius: 20px;
+    display: inline;
+}
+.X {
+   margin-left: 50px;
+    border-radius: 50px;
+    display: inline;
+}
+.links {
+    font-family: Roboto, sans-serif;
+    margin-top: -px;
+    text-decoration: none;
+ }
+ .home {
+    text-decoration: none;
+    margin-left: 1100px;
+    color: white;
+ }
+ .about {
+    margin-left: 30px;
+    text-decoration: none;
+    color: darkseagreen;
+ }
+ .home:visited {
+    color: white;
+    text-decoration: none;
+ }
+ .about:visited {
+    color: darkseagreen;
+ }
+ .contact {
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+ }
+ .contact:visited {
+    color: white;
+ }
+ .social {
+    margin-top: -23px;
+ }

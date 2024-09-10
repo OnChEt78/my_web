@@ -1,0 +1,87 @@
+body {
+    background-image: url(pictures/black-paper-background.jpg);
+}
+.name {
+        font-family: Roboto-bold, sans-serif;
+    color: white;
+    display: inline;
+    margin-left: 100px;
+}
+.main {
+    margin-top: 150px;
+    margin-left: 100px;
+    color: black;
+    font-family: Roboto, sans-serif;
+    font-size: larger;
+}
+.me {
+    color: darkgrey;
+}
+.h2  {
+    color: ghostwhite;
+}
+.p {
+    padding-right: 900px;
+}
+#btn1 {
+    border-color: aqua;
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    color: aqua;
+    border-radius: 12px;
+    font-family: Roboto, sans-serif;
+    margin-left: 100px;
+    cursor: pointer;
+    transition: ease-in-out 1s;
+} 
+#btn2 {
+    border-color: aqua;
+    width: 100px;
+    height: 40px;
+    background-color: skyblue;
+    color: black;
+    border:2px;
+    border-radius: 10px;
+    font-family: Roboto, sans-serif;
+    margin-left: 25px;
+    cursor: pointer;
+   transition: ease-in-out 1s;
+}
+.home {
+    margin-left: 1100px;
+    color: darkseagreen;
+    text-decoration: none;
+}
+.btn2:hover {
+   box-shadow: inset 300px 0 0 0 lightslategray;
+   text-shadow: lightslategray;
+border-color: white;
+}
+.btn1:hover {
+    box-shadow: inset 300px 0 0 0 darkslategray;
+ border-color: darkslategray;
+ }
+ .links {
+    color: white;
+    font-family: Roboto, sans-serif;
+ }
+ .about {
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+ }
+ .home:visited {
+    color: darkseagreen;
+ }
+ .about:visited {
+    color: white;
+ }
+ .contact {
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+ }
+ .contact:visited {
+    color: white;
+ }

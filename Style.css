@@ -1,0 +1,35 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+.Header1 {
+    text-align: center;
+    text-decoration: underline;
+}
+.Logo {
+    margin-left: 500px;
+    width: 500px;
+    height: 500px;
+}
+.img {
+    margin-left: 650px;
+    border-radius: 20px;
+    display: inline;
+}
+.tele {
+   margin-left: 50px;
+    border-radius: 20px;
+    display: inline;
+}
+.X {
+   margin-left: 50px;
+    border-radius: 50px;
+    display: inline;
+}
+.Links {
+    font-size: larger;
+    color: aquamarine;
+    background-color:dimgray;
+    display: block;
+}
